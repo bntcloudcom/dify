@@ -37,6 +37,12 @@ const translation = {
     HR: 'RH',
     Workflow: 'Fluxo de trabalho',
     Agent: 'Agente',
+    Management: 'gestão',
+    Marketing: 'Marketing',
+    Sales: 'Vendas',
+    Leadership: 'Liderança',
+    Growth: 'Crescmento',
+    Tech: 'Tecnologia',    
   },
 }
 
