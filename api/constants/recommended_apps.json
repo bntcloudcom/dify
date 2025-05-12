@@ -3,7 +3,7 @@
         "en-US": {
             "categories": [
                 "Management",
-                "Markeeting",
+                "Marketing",
                 "Sales",
                 "Leadership",
                 "Growth",
@@ -20,7 +20,7 @@
                     },
                     "app_id": "b53545b1-79ea-4da3-b31a-c39391c6f041",
                     "category": "Management",
-                    "copyright": null,
+                    "copyright": "Soph-IA",
                     "description": null,
                     "is_listed": true,
                     "position": 10,
@@ -36,7 +36,7 @@
                     },
                     "app_id": "a23b57fa-85da-49c0-a571-3aff375976c1",
                     "category": "Marketing",
-                    "copyright": "Dify.AI",
+                    "copyright": "Soph-IA",
                     "description": "Welcome to your personalized Investment Analysis Copilot service, where we delve into the depths of stock analysis to provide you with comprehensive insights. \n",
                     "is_listed": true,
                     "position": 10,
