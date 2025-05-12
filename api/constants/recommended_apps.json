@@ -2,12 +2,12 @@
     "recommended_apps": {
         "en-US": {
             "categories": [
-                "Agent",
-                "Workflow",
-                "HR",
-                "Programming",
-                "Writing",
-                "Assistant"
+                "Management",
+                "Markeeting",
+                "Sales",
+                "Leadership",
+                "Growth",
+                "Tech"
             ],
             "recommended_apps": [
                 {
@@ -15,8 +15,8 @@
                         "icon": "🤖",
                         "icon_background": "#FFEAD5",
                         "id": "b53545b1-79ea-4da3-b31a-c39391c6f041",
-                        "mode": "chat",
-                        "name": "Website Generator"
+                        "mode": "agent-chat",
+                        "name": "Especialista em Finanças"
                     },
                     "app_id": "b53545b1-79ea-4da3-b31a-c39391c6f041",
                     "category": "Programming",
@@ -28,11 +28,11 @@
                 },
                 {
                     "app": {
-                        "icon": "🤑",
+                        "icon": "🤖",
                         "icon_background": "#E4FBCC",
                         "id": "a23b57fa-85da-49c0-a571-3aff375976c1",
                         "mode": "agent-chat",
-                        "name": "Investment Analysis Report Copilot"
+                        "name": "Especialista em Relacionamentos"
                     },
                     "app_id": "a23b57fa-85da-49c0-a571-3aff375976c1",
                     "category": "Agent",
