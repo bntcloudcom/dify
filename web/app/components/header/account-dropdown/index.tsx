@@ -133,7 +133,7 @@ export default function AppSelector() {
                           className={cn(itemClassName, 'group justify-between',
                             'data-[active]:bg-state-base-hover',
                           )}
-                          href={`https://docs.dify.ai/${docLanguage}/introduction`}
+                          href={`https://docs.soph-ia.app/${docLanguage}/introduction`}
                           target='_blank' rel='noopener noreferrer'>
                           <RiBookOpenLine className='size-4 shrink-0 text-text-tertiary' />
                           <div className='system-md-regular grow px-1 text-text-secondary'>{t('common.userProfile.helpCenter')}</div>
@@ -149,7 +149,19 @@ export default function AppSelector() {
                           className={cn(itemClassName, 'group justify-between',
                             'data-[active]:bg-state-base-hover',
                           )}
-                          href='https://github.com/langgenius/dify'
+                          href='https://roadmap.soph-ia.app'
+                          target='_blank' rel='noopener noreferrer'>
+                          <RiMap2Line className='size-4 shrink-0 text-text-tertiary' />
+                          <div className='system-md-regular grow px-1 text-text-secondary'>{t('common.userProfile.roadmap')}</div>
+                          <RiArrowRightUpLine className='size-[14px] shrink-0 text-text-tertiary' />
+                        </Link>
+                      </MenuItem>
+                      <MenuItem>
+                        <Link
+                          className={cn(itemClassName, 'group justify-between',
+                            'data-[active]:bg-state-base-hover',
+                          )}
+                          href='https://soph-ia.app'
                           target='_blank' rel='noopener noreferrer'>
                           <RiGithubLine className='size-4 shrink-0 text-text-tertiary' />
                           <div className='system-md-regular grow px-1 text-text-secondary'>{t('common.userProfile.github')}</div>
